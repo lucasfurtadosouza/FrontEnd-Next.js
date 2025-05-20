@@ -1,12 +1,17 @@
-import { YourButton } from "./YourButton"
+import Banner from "./components/Banner"
+import Courses from "./components/Courses"
+import Footer from "./components/Footer"
+import Header from "./components/Header"
+import { TitleCourses } from "./components/TitleCourses"
 
 export default function Home() {
   return (
     <div>
-      <h1 className="m-8">Teste</h1>
-      <h2>Teste 2</h2>
-      <YourButton/>
-      <YourButton/>
+     <Header/>
+     <Banner/>
+     <TitleCourses/>
+     <Courses/>
+     <Footer/>
     </div>
   )
 }
