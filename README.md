@@ -1,4 +1,4 @@
-#Projeto Escola - Next.js/React com Tailwind CSS
+# Projeto Escola - Next.js/React com Tailwind CSS
 Este projeto contém os códigos para uma página escolar, desenvolvida como exercício para a disciplina de Desenvolvimento Web Front-End da UTFPR - Francisco Beltrão.
 
 O que foi feito:
